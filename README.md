@@ -1,6 +1,7 @@
 # React + Vite
 
-##Todo-app
+## Todo-app
+
 ![Todo-app](https://github.com/suannelson123/todo-app/blob/91241a9ba0ddb2764c5a447e93e2b8deb3099219/src/assets/images/todo-app.PNG)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
